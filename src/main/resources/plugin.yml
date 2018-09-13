@@ -1,0 +1,12 @@
+name: MyUHC
+main: com.gmail.panmpan.MyUHC.MyUHC
+authors: ['Michael']
+version: 0.0.1
+depend: ['Multiverse-Core']
+commands:
+  join:
+    description: '加入 UHC'
+    usage: /<command>
+  leave:
+    description: '退出 UHC'
+    usage: /<command>
